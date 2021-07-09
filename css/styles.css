@@ -1,0 +1,126 @@
+
+body{
+  margin: 0;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Cookie', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-weight: normal;
+    line-height: 2;
+}
+h2{
+  font-family: 'Archivo Narrow', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+p{
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #11999E;
+}
+
+span{
+  text-decoration: underline;
+}
+hr{
+  /*border-style: none;
+  border-top-style: dotted;
+  border-width: 08px;
+  color: #EAF6F6;
+  above four tags can be replced with below two tags*/
+  border: dotted #F9F9F9 8px;
+  border-bottom: none;
+
+  width: 05%;
+  margin: 80px auto;
+
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #f3f0d7;
+
+}
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+.middle-container{
+
+  }
+
+.bottom-container{
+  background-color: #66BFBF;
+height: 125px;
+padding-top: 50px;
+line-height: 2;
+margin-bottom: 10px;
+}
+.skill-row{
+margin: 50px auto ;
+  width: 50%;
+text-align: left;
+line-height: 1;
+}
+
+.skill-imgs1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-imgs2{
+  width: 25%;
+  float: right;
+}
+.profile-pic{
+  width: 10%;
+  padding-top: 100px;
+}
+.copyright{
+
+  color: #EAF6F6;
+  margin-bottom: 200px;
+}
+.BUTTON_JFZ {
+   -webkit-border-radius: 39px;
+   -moz-border-radius: 39px;
+   border-radius: 20px;
+   height: 1px;
+   line-height: 1px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 118px;
+   font-size: 12px;
+   font-weight: 100;
+   padding: 14px;
+   background-color: #66BFBF;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 60px auto;
+}
+.footer-link{
+  color: #11999E;
+    padding: 30px;
+    margin-bottom: 0;
+}
